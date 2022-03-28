@@ -1,5 +1,4 @@
-# Website-playground-2022
-Updates<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -18,8 +17,7 @@ Updates<!DOCTYPE html>
         <li style="display: inline;">Two</li>
         <li style="display: inline;">Three</li>
       </ol>
-
-      <p style="font-family: monospace; color: 'red';">Some more text at the bottom.</p>
+      <p style="font-family: monospace; color: 'red';margin: auto;">Some more text at the bottom.</p>
     </div>
   </body>
 </html>
